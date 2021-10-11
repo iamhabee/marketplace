@@ -14,5 +14,6 @@ Blockchain Technology and Tools
 - Etherium
 - Ganache
 - Meta Mask
+- Kovan Test Network
 
 Thanks to Greggory For his outstanding contribution in helping others become a better programmer
